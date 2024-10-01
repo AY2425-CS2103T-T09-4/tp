@@ -7,7 +7,7 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
+        "isaac-pang-teng-hong": "Isaac Pang Teng Hong",
         "chua-kee-chin": "Chua Kee Chin",
         "johnny-doe": "Johnny Doe",
         "ding-yi-he": "Ding Yi He",
@@ -138,6 +138,14 @@
     {
       "src": "team/ckclion.md",
       "title": "Chua Kee Chin's Project Portfolio Page",
+      "headings": {
+        "project-goats": "Project: GOATS"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/isaac.md",
+      "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-goats": "Project: GOATS"
       },
