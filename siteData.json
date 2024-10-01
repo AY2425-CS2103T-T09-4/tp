@@ -8,9 +8,9 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
         "chua-kee-chin": "Chua Kee Chin",
+        "johnny-doe": "Johnny Doe",
+        "ding-yi-he": "Ding Yi He",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -138,6 +138,14 @@
     {
       "src": "team/ckclion.md",
       "title": "Chua Kee Chin's Project Portfolio Page",
+      "headings": {
+        "project-goats": "Project: GOATS"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/oneBoz.md",
+      "title": "Yi He's Project Portfolio Page",
       "headings": {
         "project-goats": "Project: GOATS"
       },
