@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "isaac-pang-teng-hong": "Isaac Pang Teng Hong",
         "chua-kee-chin": "Chua Kee Chin",
-        "johnny-doe": "Johnny Doe",
+        "lutfir-rahman": "Lutfir Rahman",
         "ding-yi-he": "Ding Yi He",
         "james-doe": "James Doe"
       },
@@ -148,6 +148,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-goats": "Project: GOATS"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/lutfir-cpu.md",
+      "title": "Lutfir's Project Portfolio Page",
+      "headings": {
+        "project-goats-greatest-online-address-book-for-tutorial-students": "Project: GOATS (Greatest Online Address-book for Tutorial Students)"
       },
       "headingKeywords": {}
     },
