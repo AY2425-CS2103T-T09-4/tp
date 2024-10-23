@@ -118,6 +118,8 @@
         "locating-persons-by-name-find": "Locating persons by name: find",
         "locating-persons-by-tag-findtag": "Locating persons by tag: findtag",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "pinning-a-person-pin": "Pinning a person : pin",
+        "unpinning-a-person-unpin": "Unpinning a person : unpin",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
