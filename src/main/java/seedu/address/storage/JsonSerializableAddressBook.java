@@ -94,6 +94,7 @@ class JsonSerializableAddressBook {
             if (addressBook.hasPerson(person)) {
                 throw new IllegalValueException(MESSAGE_DUPLICATE_ARCHIVED_PERSON);
             }
+            addressBook.addPerson(person);
             addressBook.archivePerson(person);
         }
     }
