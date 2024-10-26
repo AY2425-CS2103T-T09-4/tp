@@ -121,9 +121,7 @@ public class AddressBook implements ReadOnlyAddressBook {
         persons.unarchivePerson(person, archivedPersons); // Move from archived list to active list
     }
 
-    /**
-     * Returns an unmodifiable view of the archived person list.
-     */
+    @Override
     public ObservableList<Person> getArchivedPersonList() {
         return archivedPersons.asUnmodifiableObservableList();
     }
