@@ -120,6 +120,7 @@
         "deleting-a-person-delete": "Deleting a person : delete",
         "pinning-a-person-pin": "Pinning a person : pin",
         "unpinning-a-person-unpin": "Unpinning a person : unpin",
+        "listing-students-liststudents": "Listing students : liststudents",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
