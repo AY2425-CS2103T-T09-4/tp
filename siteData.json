@@ -109,6 +109,7 @@
       "headings": {
         "goats-user-guide": "GOATS User Guide",
         "quick-start": "Quick start",
+        "command-summary": "Command summary",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
@@ -129,8 +130,7 @@
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
-        "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "known-issues": "Known issues"
       },
       "headingKeywords": {}
     },
