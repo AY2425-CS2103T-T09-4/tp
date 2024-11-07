@@ -125,6 +125,8 @@
         "unpinning-a-person-unpin": "Unpinning a person : unpin",
         "archive-a-person-archive": "Archive a person : archive",
         "unarchive-a-person-unarchive": "Unarchive a person : unarchive",
+        "link-a-parent-to-a-student-link": "Link a parent to a student : link",
+        "unlink-a-parent-from-a-student-unlink": "Unlink a parent from a student : unlink",
         "listing-all-persons-list": "Listing all persons : list",
         "listing-all-archived-persons-listarchive": "Listing all archived persons : listarchive",
         "listing-students-liststudents": "Listing students : liststudents",
