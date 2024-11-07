@@ -38,8 +38,8 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
+        "span": "span",
         "goats-developer-guide": "GOATS Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
@@ -63,6 +63,10 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "finding-contacts-by-name-tag-and-lesson-day": "Finding Contacts by Name, Tag, and Lesson Day",
+        "archiving-and-unarchiving-contacts": "Archiving and Unarchiving Contacts",
+        "pinning-and-unpinning-contacts": "Pinning and Unpinning Contacts",
+        "linking-and-unlinking-contacts": "Linking and Unlinking Contacts",
         "loading-data": "Loading data"
       },
       "headingKeywords": {}
