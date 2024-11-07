@@ -38,8 +38,8 @@
     },
     {
       "src": "DeveloperGuide.md",
+      "title": "Developer Guide",
       "headings": {
-        "span": "span",
         "goats-developer-guide": "GOATS Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
@@ -156,7 +156,7 @@
     },
     {
       "src": "team/ckclion.md",
-      "title": "Chua Kee Chin's Project Portfolio Page",
+      "title": "Kee Chin's Project Portfolio Page",
       "headings": {
         "project-goats-greatest-offline-address-book-for-tutorial-students": "Project: GOATS (Greatest Offline Address-book for Tutorial Students)"
       },
@@ -172,7 +172,7 @@
     },
     {
       "src": "team/isaacpangth.md",
-      "title": "John Doe's Project Portfolio Page",
+      "title": "Isaac's Project Portfolio Page",
       "headings": {
         "project-goats-greatest-offline-address-book-for-tutorial-students": "Project: GOATS (Greatest Offline Address-book for Tutorial Students)"
       },
