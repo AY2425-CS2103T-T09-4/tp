@@ -63,7 +63,7 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "loading-data": "Loading data"
       },
       "headingKeywords": {}
     },
@@ -148,7 +148,7 @@
       "src": "team/ckclion.md",
       "title": "Chua Kee Chin's Project Portfolio Page",
       "headings": {
-        "project-goats": "Project: GOATS"
+        "project-goats-greatest-online-address-book-for-tutorial-students": "Project: GOATS (Greatest Online Address-book for Tutorial Students)"
       },
       "headingKeywords": {}
     },
@@ -164,7 +164,7 @@
       "src": "team/isaacpangth.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
-        "project-goats": "Project: GOATS"
+        "project-goats-greatest-online-address-book-for-tutorial-students": "Project: GOATS (Greatest Online Address-book for Tutorial Students)"
       },
       "headingKeywords": {}
     },
@@ -180,7 +180,7 @@
       "src": "team/oneboz.md",
       "title": "Yi He's Project Portfolio Page",
       "headings": {
-        "project-goats": "Project: GOATS"
+        "project-goats-greatest-online-address-book-for-tutorial-students": "Project: GOATS (Greatest Online Address-book for Tutorial Students)"
       },
       "headingKeywords": {}
     }
