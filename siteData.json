@@ -143,6 +143,7 @@
     },
     {
       "src": "index.md",
+      "title": "Home",
       "headings": {
         "goats-greatest-online-address-book-for-tutoring-students": "GOATS (Greatest Online Address-book for Tutoring Students)",
         "introducing-goats": "Introducing GOATS"
