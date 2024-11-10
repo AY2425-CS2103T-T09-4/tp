@@ -109,7 +109,6 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
         "goats-user-guide": "GOATS User Guide",
         "introduction": "Introduction",
@@ -136,7 +135,7 @@
         "listing-parents-listparents": "Listing parents : listparents",
         "link-a-parent-to-a-student-link": "Link a parent to a student : link",
         "unlink-a-parent-from-a-student-unlink": "Unlink a parent from a student : unlink",
-        "sorting-all-persons-sort": "Sorting all persons: sort",
+        "sorting-all-persons-alphabetically-sort": "Sorting all persons alphabetically: sort",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
