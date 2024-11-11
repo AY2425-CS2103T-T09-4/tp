@@ -863,6 +863,6 @@ with(this){return _c('h3',{attrs:{"id":"9-improve-input-validation-for-findday-c
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Current Situation")]),_v(": Users can input any value for the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DAY")]),_v(" parameter of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("findday")]),_v(" command.")]),_v(" "),_c('li',[_c('strong',[_v("Proposed Improvement")]),_v(": Create an enum of valid "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DAY")]),_v(" inputs (i.e. the days of the week), and display an error message to the user if the value input to the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DAY")]),_v(" parameter does not match any of the valid inputs.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 23:48:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 0:21:30 GMT+8]")])])])}
 }];
   
