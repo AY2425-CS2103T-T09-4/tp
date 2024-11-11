@@ -136,6 +136,8 @@
         "quick-start": "Quick Start",
         "command-summary": "Command summary",
         "features": "Features",
+        "command-format": "Command Format",
+        "command-parameters": "Command Parameters",
         "adding-a-student-addstudent": "Adding a student: addstudent",
         "adding-a-parent-addparent": "Adding a parent: addparent",
         "editing-a-contact-edit": "Editing a contact : edit",
