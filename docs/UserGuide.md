@@ -11,7 +11,7 @@ Are you a Singaporean private tutor who has trouble keeping track of your studen
 <br><br>
 The Greatest Offline Addressbook for Teaching Students, or GOATS, is an **offline desktop app** designed for your administrative needs for private tutoring. GOATS does not only help you keep track of students information such as phone number, grades and education level, it also helps you access the students' parents information as well. GOATS also boasts features such as archiving, sorting and pinning contacts to make sure you organise and find contacts quickly and easily.
 <br><br>
-The GOATS app is intended for **private tutors** who possess knowledge of basic computer skills (such as installing, downloading and navigating files) and the terminal emulator. In addition, GOATS is optimised for fast typists with prior experience in using the Command Line Interface (CLI). So, if you can type fast, GOATS can get your student management tasks done faster than traditional Address Book applications!
+The GOATS app is intended for **private tutors** who possess knowledge of basic computer skills (such as installing, downloading and navigating files). In addition, GOATS is optimised for fast typists with prior experience in using the Command Line Interface (CLI). So, if you can type fast, GOATS can get your student management tasks done faster than traditional Address Book applications!
 <br><br>
 This User Guide provides a guide of how to set up GOATS and a description of useful commands that you can use.
 Please first ensure that you meet the [Minimum System Requirements](#minimum-system-requirements) in order to run GOATS.
