@@ -869,6 +869,6 @@ with(this){return _c('h3',{attrs:{"id":"10-improve-input-validation-for-email-pa
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Current Situation")]),_v(": Commands that take in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("EMAIL")]),_v(" parameter will accept email without top-level domain (i.e. local-part@domain).")]),_v(" "),_c('li',[_c('strong',[_v("Proposed Improvement")]),_v(": Ensure that users include a top-level domain when inputting "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("EMAIL")]),_v(" parameters (i.e. "),_c('a',{attrs:{"href":"mailto:local-part@domain.com"}},[_v("local-part@domain.com")]),_v(").")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 3:20:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 4:01:58 GMT+8]")])])])}
 }];
   
