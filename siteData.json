@@ -80,16 +80,15 @@
         "effort-required": "Effort Required",
         "achievements": "Achievements",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
-        "1-hide-archived-contacts-when-using-the-find-command": "1. Hide archived contacts when using the find command.",
-        "2-hide-archived-contacts-when-using-the-findtag-command": "2. Hide archived contacts when using the findtag command.",
-        "3-hide-archived-contacts-when-using-the-findday-command": "3. Hide archived contacts when using the findday command.",
+        "1-hide-archived-contacts-when-using-find-commands": "1. Hide archived contacts when using find commands.",
+        "2-prevent-archiving-of-already-archived-contacts": "2. Prevent archiving of already archived contacts.",
+        "3-prevent-unarchiving-of-already-unarchived-contacts": "3. Prevent unarchiving of already unarchived contacts.",
         "4-prevent-pinning-of-already-pinned-contacts": "4. Prevent pinning of already pinned contacts.",
         "5-prevent-unpinning-of-already-unpinned-contacts": "5. Prevent unpinning of already unpinned contacts.",
         "6-improve-name-validation-to-allow-for-special-characters": "6. Improve name validation to allow for special characters.",
-        "7-improve-grade-command-success-message": "7. Improve Grade Command success message.",
-        "8-maintain-the-same-displayed-list-when-editing-contacts": "8. Maintain the same displayed list when editing contacts.",
-        "9-maintain-the-same-displayed-list-when-editing-contacts-grades": "9. Maintain the same displayed list when editing contacts' grades.",
-        "10-improve-input-validation-for-findday-command-to-only-take-in-days-of-the-week": "10. Improve input validation for findday command to only take in days of the week."
+        "7-maintain-the-same-displayed-list-when-editing-contacts": "7. Maintain the same displayed list when editing contacts.",
+        "8-maintain-the-same-displayed-list-when-editing-contacts-grades": "8. Maintain the same displayed list when editing contacts' grades.",
+        "9-improve-input-validation-for-findday-command-to-only-take-in-days-of-the-week": "9. Improve input validation for findday command to only take in days of the week."
       },
       "headingKeywords": {}
     },
