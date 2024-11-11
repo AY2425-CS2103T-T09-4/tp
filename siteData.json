@@ -88,7 +88,8 @@
         "6-improve-name-validation-to-allow-for-special-characters": "6. Improve name validation to allow for special characters.",
         "7-maintain-the-same-displayed-list-when-editing-contacts": "7. Maintain the same displayed list when editing contacts.",
         "8-maintain-the-same-displayed-list-when-editing-contacts-grades": "8. Maintain the same displayed list when editing contacts' grades.",
-        "9-improve-input-validation-for-findday-command-to-only-take-in-days-of-the-week": "9. Improve input validation for findday command to only take in days of the week."
+        "9-improve-input-validation-for-findday-command-to-only-take-in-days-of-the-week": "9. Improve input validation for findday command to only take in days of the week.",
+        "10-improve-input-validation-for-email-parameter-to-check-for-top-level-domain": "10. Improve input validation for EMAIL parameter to check for top-level domain"
       },
       "headingKeywords": {}
     },
