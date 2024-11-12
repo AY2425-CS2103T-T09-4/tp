@@ -89,7 +89,7 @@
         "7-maintain-the-same-displayed-list-when-editing-contacts": "7. Maintain the same displayed list when editing contacts.",
         "8-maintain-the-same-displayed-list-when-editing-contacts-grades": "8. Maintain the same displayed list when editing contacts' grades.",
         "9-improve-input-validation-for-findday-command-to-only-take-in-days-of-the-week": "9. Improve input validation for findday command to only take in days of the week.",
-        "10-improve-input-validation-for-email-parameter-to-check-for-top-level-domain": "10. Improve input validation for EMAIL parameter to check for top-level domain"
+        "10-improve-ui-to-view-contacts-in-a-separate-window": "10. Improve UI to view contacts in a separate window"
       },
       "headingKeywords": {}
     },
