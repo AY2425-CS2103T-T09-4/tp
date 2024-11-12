@@ -869,6 +869,6 @@ with(this){return _c('h3',{attrs:{"id":"10-improve-ui-to-view-contacts-in-a-sepa
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Current Situation")]),_v(": If the name of the contact exceeds 14 characters, users can only view the name via commands. (pin etc.)")]),_v(" "),_c('li',[_c('strong',[_v("Proposed Improvement")]),_v(": Create a new command that displays full details of the contact in a new window.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 11:43:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 11:50:45 GMT+8]")])])])}
 }];
   
